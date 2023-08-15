@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I recently got a Master's degree in High-Performance Graphics and Games Engineering from University of Leeds.
+- 🌱 Completed Master's degree in High-Performance Graphics and Games Engineering from University of Leeds.
 - 🔭 Actively applying for graduate / junior game programmer roles.
 - ⚡ Skillset: C++ | Unreal Engine 5 | Computer Graphics | GLSL / HLSL | lua
 
