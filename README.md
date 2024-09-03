@@ -3,8 +3,8 @@
 
 
 - 🌱 Completed Master's degree in High-Performance Graphics and Games Engineering from University of Leeds.
-- 🔭 Actively applying for graduate / junior game programmer roles.
-- ⚡ Skillset: C++ | Unreal Engine 5 | Computer Graphics | GLSL / HLSL | lua
+- 🔭 Actively applying for a graduate / junior game programmer / Software Engineer role.
+- ⚡ Skillset: C++ | Unreal Engine 5 | Computer Graphics | GLSL / HLSL | lua | JavaScript | C#
 
 <!--
 **Muteages/Muteages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
